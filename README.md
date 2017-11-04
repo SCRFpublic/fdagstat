@@ -40,7 +40,7 @@ If you find this sofware useful please consider citing it in your publications. 
 @Manual{fdagstat_2016,
   title  = {fdagstat, an \proglang{R} package},
   author = {Ognjen Grujic and Alessandra Menafoglio},
-  year   = {2016},
+  year   = {2017},
   note   = {\proglang{R}~package version~1.0},
   url    = {https://github.com/ogru/fdagstat},
 }
